@@ -2,6 +2,7 @@
 #baseurl: "https://amoghvs.github.io/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Amogh Sondur"
@@ -10,3 +11,10 @@ author: "Amogh Sondur"
 header:
  title: "Photography"
  subtitle: "by Amogh Sondur"
+footer:
+social_urls:
+  facebook: "https://www.facebook.com/amogh.v.s"
+  twitter: "https://www.twitter.com/amoghvs"
+  instagram: "https://www.instagram.com/amogh_sondur"
+  linkedin: "https://in.linkedin.com/in/amoghsondur"
+  github: "https://www.github.com/amoghvs"
