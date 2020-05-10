@@ -40,8 +40,15 @@ layout: default
                     <p>{{ site.footer.github }}</p>
                 </section>
                 <section>
-                    <h2>Follow me on</h2>
+                    <h2>Let's Connect!</h2>
                     <ul class="icons">
+                        {% if site.social_urls.mail %}
+                            <li>
+                                <a href="{{ site.social_urls.mail }}" class="icon fa-envelope">
+                                    <span class="label">Email</span>
+                                </a>
+                            </li>
+                        {% endif %}
                         {% if site.social_urls.facebook %}
                             <li>
                                 <a href="{{ site.social_urls.facebook }}" class="icon fa-facebook">
@@ -86,10 +93,10 @@ layout: default
                         {% endif %}
                     </ul>
                 </section>
-                
+
             </div>
             <div>
-               
+
             </div>
         </div>
     </footer>
