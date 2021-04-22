@@ -12,9 +12,9 @@ header:
  subtitle: "by Amogh Sondur"
 footer:
 social_urls:
-  facebook: "https://www.facebook.com/amogh.v.s"
-  twitter: "https://www.twitter.com/amoghvs"
-  instagram: "https://www.instagram.com/amogh_sondur"
+  #facebook: "https://www.facebook.com/amogh.v.s"
+  #twitter: "https://www.twitter.com/amoghvs"
+  #instagram: "https://www.instagram.com/amogh_sondur"
   linkedin: "https://in.linkedin.com/in/amoghsondur"
   github: "https://www.github.com/amoghvs"
   mail: "mailto:amoghvs@gmail.com"
